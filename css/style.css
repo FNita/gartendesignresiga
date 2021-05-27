@@ -229,6 +229,7 @@ header .intro-text {
 	display: block;
 	width: 100%;
 	height: auto;
+	border-radius: 20px;
 }
 #about .about-text, #about .about-desc {
 	margin-bottom: 40px;

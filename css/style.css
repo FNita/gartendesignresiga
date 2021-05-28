@@ -536,8 +536,13 @@ color: #777;
 	transition: all 0.3s;
 }
 #footer .social i.fa:hover {
-	background: #a2d21c;
 	color: #fff;
+}
+#footer .social i.fa-facebook:hover {
+	background: #4267B2;
+}
+#footer .social i.fa-instagram:hover {
+	background: #C13584;
 }
 #footer p {
 	color: #666;

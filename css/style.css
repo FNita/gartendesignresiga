@@ -502,13 +502,13 @@ color: #777;
 }
 #footer::before {
 	content: "";
-	position: absolute;
-	top: 0;
-	left: 0;
-	height: 100px;
-	width: 100%;
-	background: url(/img/grassdark.svg) bottom center;
-	background-size: 100%;
+    position: absolute;
+    top: -100%;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: url(/img/grassdark.svg) bottom center;
+    background-size: 25%;
   }
 #footer h3 {
 	color: #1e7a46;

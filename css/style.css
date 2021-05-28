@@ -508,6 +508,7 @@ color: #777;
     height: 100%;
     width: 100%;
     background: url(/img/grassdark.svg) bottom center;
+	background-repeat: repeat-x;
     background-size: 25%;
   }
 #footer h3 {

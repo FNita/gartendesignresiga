@@ -120,7 +120,7 @@ hr {
 	background-color: #a2d21c;
 }
 .section-title {
-	margin-bottom: 70px;
+	margin-bottom: 30px;
 }
 .section-title p {
 	font-size: 18px;
@@ -237,8 +237,9 @@ header .intro-text {
 }
 /* Services Section */
 #services {
-	padding: 120px 0;
-	background: #a2d21c;
+	padding: 80px 0;
+	background: rgb(121,161,12);
+	background: linear-gradient(350deg, rgba(121,161,12,1) 0%, rgba(162,210,28,1) 50%, rgba(121,161,12,1) 100%);
 }
 #services .service-media {
 	margin: 10px;

@@ -554,3 +554,9 @@ color: #777;
 #footer a:hover {
 	color: #ccc;
 }
+
+
+/* Extra CSS */
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    border-radius: 10px;
+}

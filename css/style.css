@@ -81,6 +81,7 @@ hr {
 #menu.navbar-default {
 	background-color: rgba(248, 248, 248, 0);
 	border-color: rgba(231, 231, 231, 0);
+	background-color: #A2D21C;
 }
 #menu a.navbar-brand {
 	font-size: 26px;

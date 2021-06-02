@@ -532,21 +532,15 @@ color: #777;
 	height: 40px;
 	padding: 10px;
 	background: #444;
-	color: #a2d21c;
+	color: #fff;
 	border-radius: 50%;
 	transition: all 0.3s;
 }
 #footer .social i.fa:hover {
 	color: #fff;
 }
-#footer .social i.fa-facebook {
-	color: #4267B2;
-}
 #footer .social i.fa-facebook:hover {
 	background: #4267B2;
-}
-#footer .social i.fa-instagram {
-	color: #C13584;
 }
 #footer .social i.fa-instagram:hover {
 	background: #C13584;

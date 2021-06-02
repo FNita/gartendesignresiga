@@ -564,3 +564,13 @@ color: #777;
 .navbar-brand {
     padding: 0 15px;
 }
+.navbar-brand > img {
+    width: auto;
+    height: 50px;
+}
+@media (max-width: 767px){
+	.navbar-brand > img {
+		width: 220px;
+		height: auto;
+	}
+}

@@ -539,8 +539,14 @@ color: #777;
 #footer .social i.fa:hover {
 	color: #fff;
 }
+#footer .social i.fa-facebook {
+	color: #4267B2;
+}
 #footer .social i.fa-facebook:hover {
 	background: #4267B2;
+}
+#footer .social i.fa-instagram {
+	color: #C13584;
 }
 #footer .social i.fa-instagram:hover {
 	background: #C13584;

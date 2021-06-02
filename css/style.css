@@ -574,4 +574,7 @@ color: #777;
     	height: 40px;
     	margin-top: 5px;
 	}
+	#menu {
+		padding: 15px 0;
+	}
 }

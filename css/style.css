@@ -570,7 +570,8 @@ color: #777;
 }
 @media (max-width: 767px){
 	.navbar-brand > img {
-		width: 220px;
-		height: auto;
+		width: auto;
+    	height: 40px;
+    	margin-top: 5px;
 	}
 }
